@@ -1,0 +1,19 @@
+{
+  "name": "chrome-extension",
+  "version": "1.0.0",
+  "description": "chrome-extension app via JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PurdueCho/chrome_app.git"
+  },
+  "author": "younghyun cho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PurdueCho/chrome_app/issues"
+  },
+  "homepage": "https://github.com/PurdueCho/chrome_app#readme"
+}
